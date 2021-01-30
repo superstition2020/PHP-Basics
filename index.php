@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<body>
-
-    <h1>This is PHP Basics</h1>
     <?php
 
     //this is the first part
@@ -117,6 +112,3 @@
 
 
     ?>
-</body>
-
-</html>
